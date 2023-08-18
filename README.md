@@ -8,9 +8,9 @@
 
 
 
-- 🔭 I’m currently working on [Contractor Samudaay (कंट्रैक्टर समुदाय)](https://github.com/abhishekpatel214/Contractor_Samuday)
+- 🔭 I’m currently working on [ college society club Related Web Application]()
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👨‍💻 Web Developer | 🕸️ builded fully functional websites with 3 modules [AIOservice](https://github.com/abhishekpatel214/aioservice.github.io)
 
