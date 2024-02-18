@@ -8,8 +8,6 @@
 
 
 
-- 🔭 I’m currently working on [ college society club Related Web Application]()
-
 - 🌱 I’m currently learning **NextJS**
 
 - 👨‍💻 Web Developer | 🕸️ builded fully functional websites with 3 modules [AIOservice](https://github.com/abhishekpatel214/aioservice.github.io)
